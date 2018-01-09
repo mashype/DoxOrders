@@ -1,0 +1,6 @@
+framework module Pods_DoxOrders {
+  umbrella header "Pods-DoxOrders-umbrella.h"
+
+  export *
+  module * { export * }
+}
